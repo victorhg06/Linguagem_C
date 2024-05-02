@@ -14,7 +14,7 @@ int main() {
 	}
 	printf("Ordem atual dos itens no array:\n ");
 	for (i=0; i<TAM; i++){
-		printf("%4d", numeros[i]);
+		printf("%1d", numeros[i]);
 	}
 	
 	
